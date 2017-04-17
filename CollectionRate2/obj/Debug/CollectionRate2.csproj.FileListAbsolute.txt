@@ -1,0 +1,5 @@
+D:\Dev\Daniel\CollectionRate\CollectionRate2\obj\Debug\CollectionRate2.csprojResolveAssemblyReference.cache
+D:\Dev\Daniel\CollectionRate\CollectionRate2\bin\Debug\CollectionRate2.pdb
+D:\Dev\Daniel\CollectionRate\CollectionRate2\obj\Debug\CollectionRate2.pdb
+D:\Dev\Daniel\CollectionRate\CollectionRate2\bin\Debug\CollectionRate2.exe
+D:\Dev\Daniel\CollectionRate\CollectionRate2\obj\Debug\CollectionRate2.exe
